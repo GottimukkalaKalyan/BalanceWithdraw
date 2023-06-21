@@ -1,0 +1,13 @@
+.itemMake {
+  list-style-type: none;
+}
+.button {
+  width: 200px;
+  padding: 3px;
+  font-size: 30px;
+  background-color: #585076;
+  border: 2px solid #c4c4c4;
+  margin: 10px;
+  color: #c4c4c4;
+  border-radius: 10px;
+}
